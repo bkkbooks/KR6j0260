@@ -1,0 +1,55 @@
+canonical_identifier: bkk:krp/KR6j0260/v1
+canonical_location: https://kanripo.org/bkk/KR6j0260/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1060
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1060.xml
+    old_id: T20n1060
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0260_000.yaml, hash: 'sha256:5b0dcf1d5ccdcf94d74ca4dd0546e786aa75fdd0dd4ee216c5cde139c74a0f43'}
+  - {seq: 1, filename: KR6j0260_001.yaml, hash: 'sha256:6950eaf6d13d607eda4dfe0d01e360896d74cde19b5cccd4afe6f3a476163bdf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0260_000.markers.yaml, hash: 'sha256:dd984144500cfddc11f7b16f52e0889dfe56ccbe9ab86172aa086ac2c2b07eee'}
+  - {seq: 1, role: markers, filename: assets/KR6j0260_001.markers.yaml, hash: 'sha256:382b8ae15939e6f31d622da69bc4d3c27ccd42d26a42d39b6e570d8e5c4ae177'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0260_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 御製大悲總持經咒序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0260_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8326
+  label: '千手千眼觀世音菩薩廣大圓滿
+
+    無礙大悲心陀羅尼經'
+  type: juan
+  level: 1
+hash: sha256:71c5e1efb39a07c4024be13cdb7afcb02f4a988678e6fff597c608a3f4b216f8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
