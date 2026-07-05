@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0260_000.yaml, hash: 'sha256:5b0dcf1d5ccdcf94d74ca4dd0546e786aa75fdd0dd4ee216c5cde139c74a0f43'}
-  - {seq: 1, filename: KR6j0260_001.yaml, hash: 'sha256:6950eaf6d13d607eda4dfe0d01e360896d74cde19b5cccd4afe6f3a476163bdf'}
+  - {seq: 0, filename: KR6j0260_000.yaml, hash: 'sha256:0d779d9338bc6cfca9ddd34e98d77132bb6969d916396ef78288b4c946a6ca04'}
+  - {seq: 1, filename: KR6j0260_001.yaml, hash: 'sha256:7a0a3bbe31ca860eda18eb7794a2f2ee7608be97180c8dd417c6f799f0cdde9a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0260_000.markers.yaml, hash: 'sha256:dd984144500cfddc11f7b16f52e0889dfe56ccbe9ab86172aa086ac2c2b07eee'}
-  - {seq: 1, role: markers, filename: assets/KR6j0260_001.markers.yaml, hash: 'sha256:382b8ae15939e6f31d622da69bc4d3c27ccd42d26a42d39b6e570d8e5c4ae177'}
+  - {seq: 0, role: markers, filename: assets/KR6j0260_000.markers.yaml, hash: 'sha256:472f90c7054faf7ce67a2ac79f64d7b0648ce37548623427664b31b0217952a1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0260_001.markers.yaml, hash: 'sha256:3333fd94935f1459b474a0437057ebf5b350486f72767b3610ea747b62b3834f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -49,7 +49,4 @@ table_of_contents:
     無礙大悲心陀羅尼經'
   type: juan
   level: 1
-hash: sha256:71c5e1efb39a07c4024be13cdb7afcb02f4a988678e6fff597c608a3f4b216f8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3a411d76b91ef38c8cf0b8234620d6afbbc1e3c89ad64def1b58c2ef72cabe64
