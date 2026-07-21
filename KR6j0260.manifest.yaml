@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0260_000.yaml, hash: 'sha256:b4dde1bec6fe0c4f80267748ec00f092841ac260652b677f7b72d4cc76c36d43'}
+  - {seq: 0, filename: KR6j0260_000.yaml, hash: 'sha256:e590b49cc9d774b29eaca8cba5357fd7b9b35ed820c0159b85f8ae9a73bfac23'}
   - {seq: 1, filename: KR6j0260_001.yaml, hash: 'sha256:767685dcfeeb18d63925ae8b29c9486d015b497612075f9002481206d0434278'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0260_000.markers.yaml, hash: 'sha256:6b669483fbca58052ba53f4555c5d4e35697b5dc7a061c6a3d75c5bc9bd50646'}
+  - {seq: 0, role: markers, filename: assets/KR6j0260_000.markers.yaml, hash: 'sha256:cf4af84b15e0f5fcfcfc5783aa09e2f51697dd45f303439e9bae1f8fbce6d942'}
   - {seq: 1, role: markers, filename: assets/KR6j0260_001.markers.yaml, hash: 'sha256:88b6e4895060ff60a292b63ed355ae38f7c9be4e2561abc7b5888c20d5cc5738'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0260_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 御製大悲總持經咒序
@@ -49,7 +49,7 @@ table_of_contents:
     無礙大悲心陀羅尼經'
   type: juan
   level: 1
-hash: sha256:babc2d5adbab55d129b439df066bc939906c7079dd5f85cd337467121848bf53
+hash: sha256:f05cfdb5242d9324153341d34b4aa1d10adf07b5eaade35eae2a3d3e07921e2e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
